@@ -1,23 +1,27 @@
 {
-  "name": "ember-cli-daterangepicker",
-  "version": "0.7.0",
+  "name": "ember-cli-bootstrap-daterangepicker",
+  "version": "1.1.0",
   "description": "Ember CLI date range picker component",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "bootstrap",
+    "daterangepicker",
+    "range",
+    "datepicker"
   ],
-  "homepage": "https://github.com/josemarluedke/ember-cli-daterangepicker",
+  "homepage": "https://github.com/praya/ember-cli-daterangepicker",
   "bugs": {
-    "url": "https://github.com/josemarluedke/ember-cli-daterangepicker/issues"
+    "url": "https://github.com/praya/ember-cli-daterangepicker/issues"
   },
   "license": "MIT",
-  "author": "Josemar Luedke <josemarluedke@gmail.com> (http://josemarluedke.com/)",
+  "author": "Andrey Bezrodnov",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/josemarluedke/ember-cli-daterangepicker.git"
+    "url": "https://github.com/praya/ember-cli-daterangepicker.git"
   },
   "scripts": {
     "build": "ember build",
