@@ -117,6 +117,7 @@ export default Component.extend({
     let showCustomRangeLabel = this.get('showCustomRangeLabel');
 
     let options = this.getProperties(
+      'maxSpan',
       'isInvalidDate',
       'isCustomDate',
       'alwaysShowCalendars',
